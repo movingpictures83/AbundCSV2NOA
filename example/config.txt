@@ -1,0 +1,2 @@
+Prefix plugins/AbundCSV2NOA/example/
+Plugin AbundCSV2NOA inputfile abundN.csv outputfile abundN.average.noa
